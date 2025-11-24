@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/../vendor/autoload.php';
 
 $host = "localhost";
 $dbname = "to_do_ease";

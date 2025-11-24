@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/../vendor/autoload.php';
 include_once __DIR__ . '/../../includes/header.php';
 
 // Generate CSRF token if not exists
